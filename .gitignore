@@ -1,0 +1,18 @@
+# Python virtual environments
+t5env/
+.venv/
+env/
+
+# Cache and logs
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Large or temporary files
+*.csv
+
+# VS Code settings
+.vscode/
+
